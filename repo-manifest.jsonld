@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_mako/commit/7619ef2a5d9fe7edb57bd326d70048d6cdbca326",
       "git:hexsha": "7619ef2a5d9fe7edb57bd326d70048d6cdbca326",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-12T02:02:22.662086+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/pyramid_mako/commit/50aa688089abd1c4857254cad7b5f78f5a691b7c",
